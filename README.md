@@ -61,3 +61,5 @@ Criar uma plataforma intuitiva onde usuários possam:
 - **Controle de Versão:** Git e GitHub  
 
 ---
+## 🔗 Links Importantes
+- **Docs com Histórias:** https://docs.google.com/document/d/12vsnIQhZbG89ULeSa_zud4LqFG7dVn5y3V7VkFezCMk/edit?tab=t.0#heading=h.w051q7v96onx
