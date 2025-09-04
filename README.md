@@ -60,6 +60,20 @@ Criar uma plataforma intuitiva onde usuários possam:
 - **Deploy:** (A ser decidido) 
 - **Controle de Versão:** Git e GitHub  
 
----
-## 🔗 Links Importantes
-- **Docs com Histórias:** https://docs.google.com/document/d/12vsnIQhZbG89ULeSa_zud4LqFG7dVn5y3V7VkFezCMk/edit?tab=t.0#heading=h.w051q7v96onx
+## 👥 Equipe de Desenvolvimento  
+
+- **Pedro Marinho** - [pmpc@cesar.school](mailto:pmpc@cesar.school)  
+- **Arthur Sindeaux** - [asan2@cesar.school](mailto:asan2@cesar.school)  
+- **Arthur Oliveiras** - [aof@cesar.school](mailto:aof@cesar.school)  
+- **João Henrique** - [jhbw@cesar.school](mailto:jhbw@cesar.school)  
+- **Vinicius Pessoa** - [vpmd@cesar.school](mailto:vpmd@cesar.school)  
+- **João Pedro** - [jpss2@cesar.school](mailto:jpss2@cesar.school)
+- **Lucas Pinto** - [lprb@cesar.school.school](mailto:lprb@cesar.school) 
+
+
+## 📌 Entregas ✅ 
+<details>
+<summary>✅Entrega 01</summary>
+
+
+- 📜 **[Histórias](https://docs.google.com/document/d/12vsnIQhZbG89ULeSa_zud4LqFG7dVn5y3V7VkFezCMk/edit?tab=t.0#heading=h.w051q7v96onx)**  
